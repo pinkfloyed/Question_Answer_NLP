@@ -1,0 +1,177 @@
+[
+  {
+    "context": "Vin is a Mistborn of great power and skill. She has the ability to ingest metals and use their powers. Her abilities make her one of the most powerful Mistborn in existence.",
+    "qas": [
+      {
+        "question": "What is Vin's speciality?",
+        "id": "0",
+        "answers": [
+          {
+            "text": "Mistborn of great power and skill",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "question": "What can Vin ingest to use powers?",
+        "id": "1",
+        "answers": [
+          {
+            "text": "metals",
+            "answer_start": 72
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The sun rises in the east and sets in the west. This has been a natural phenomenon for centuries, providing us with day and night cycles.",
+    "qas": [
+      {
+        "question": "Where does the sun rise?",
+        "id": "2",
+        "answers": [
+          {
+            "text": "east",
+            "answer_start": 16
+          }
+        ]
+      },
+      {
+        "question": "Where does the sun set?",
+        "id": "3",
+        "answers": [
+          {
+            "text": "west",
+            "answer_start": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. His work is also known for its influence on the philosophy of science.",
+    "qas": [
+      {
+        "question": "Who developed the theory of relativity?",
+        "id": "4",
+        "answers": [
+          {
+            "text": "Albert Einstein",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "question": "What is Einstein's work known for?",
+        "id": "5",
+        "answers": [
+          {
+            "text": "influence on the philosophy of science",
+            "answer_start": 145
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It was named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+    "qas": [
+      {
+        "question": "Where is the Eiffel Tower located?",
+        "id": "6",
+        "answers": [
+          {
+            "text": "Paris, France",
+            "answer_start": 67
+          }
+        ]
+      },
+      {
+        "question": "Who was the Eiffel Tower named after?",
+        "id": "7",
+        "answers": [
+          {
+            "text": "Gustave Eiffel",
+            "answer_start": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Amazon rainforest is the largest rainforest in the world, covering approximately 5.5 million square kilometers. It is home to an incredible diversity of species and plays a crucial role in regulating the Earth's climate.",
+    "qas": [
+      {
+        "question": "What is the Amazon rainforest known for?",
+        "id": "8",
+        "answers": [
+          {
+            "text": "largest rainforest in the world",
+            "answer_start": 22
+          }
+        ]
+      },
+      {
+        "question": "What role does the Amazon rainforest play in the Earth's climate?",
+        "id": "9",
+        "answers": [
+          {
+            "text": "regulating the Earth's climate",
+            "answer_start": 178
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Shakespeare's plays have been translated into every major living language. His works are performed more often than those of any other playwright, and his influence on literature and culture is vast.",
+    "qas": [
+      {
+        "question": "Who is the most performed playwright?",
+        "id": "10",
+        "answers": [
+          {
+            "text": "Shakespeare",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "question": "What is the impact of Shakespeare's works?",
+        "id": "11",
+        "answers": [
+          {
+            "text": "influence on literature and culture",
+            "answer_start": 141
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Great Wall of China is a series of fortifications made of various materials that stretch across northern China. It was built to protect the Chinese states from invasions by nomadic tribes.",
+    "qas": [
+      {
+        "question": "Why was the Great Wall of China built?",
+        "id": "12",
+        "answers": [
+          {
+            "text": "to protect the Chinese states from invasions by nomadic tribes",
+            "answer_start": 126
+          }
+        ]
+      },
+      {
+        "question": "What materials were used to build the Great Wall of China?",
+        "id": "13",
+        "answers": [
+          {
+            "text": "various materials",
+            "answer_start": 57
+          }
+        ]
+      }
+    ]
+  }
+]
